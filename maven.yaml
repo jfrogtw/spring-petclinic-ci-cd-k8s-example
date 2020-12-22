@@ -1,10 +1,10 @@
 version: 1
 type: maven
 resolver:
-  serverId: kaloula
+  serverId: art
   snapshotRepo: libs-snapshot
   releaseRepo: libs-release
 deployer:
-  serverId: kaloula
+  serverId: art
   snapshotRepo: libs-snapshot-local
   releaseRepo: libs-release-local
